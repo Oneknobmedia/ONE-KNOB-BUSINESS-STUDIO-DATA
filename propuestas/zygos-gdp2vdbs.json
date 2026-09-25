@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790306467768,
- "writeId": "3k6z3izy-12",
+ "savedAt": 1790306474871,
+ "writeId": "3k6z3izy-13",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790306467768,
+  "savedAt": 1790306474871,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -790,7 +790,7 @@
       "type": "text",
       "x": 25.4,
       "y": 840.2,
-      "text": "al mes (cance",
+      "text": "al mes (cancela cuando quieras",
       "size": 11.4,
       "weight": "400",
       "color": "#9f98ab",
