@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790307438192,
- "writeId": "3k6z3izy-63",
+ "savedAt": 1790307441792,
+ "writeId": "3k6z3izy-64",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790307438192,
+  "savedAt": 1790307441792,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -1500,23 +1500,6 @@
       "lineHeight": 30,
       "autoWidth": true,
       "role": "count"
-     },
-     {
-      "id": "L02brn32",
-      "name": "ROI mensual · nota",
-      "type": "text",
-      "x": 24.41,
-      "y": 738.96,
-      "text": "plan mensual",
-      "size": 11.4,
-      "weight": "400",
-      "color": "#9f98ab",
-      "align": "left",
-      "transform": "",
-      "letterSpacing": 0,
-      "lineHeight": 16.72,
-      "w": 176.59,
-      "autoWidth": false
      },
      {
       "id": "L02brq33",
