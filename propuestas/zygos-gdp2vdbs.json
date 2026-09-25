@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790308106555,
- "writeId": "3k6z3izy-98",
+ "savedAt": 1790308114638,
+ "writeId": "3k6z3izy-99",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790308106555,
+  "savedAt": 1790308114638,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -1630,7 +1630,7 @@
       "type": "text",
       "x": 215,
       "y": 785.12,
-      "text": " 7Pago único",
+      "text": "  Pl7Pago único",
       "size": 11.4,
       "weight": "400",
       "color": "#9f98ab",
