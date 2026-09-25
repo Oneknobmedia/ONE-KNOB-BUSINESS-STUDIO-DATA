@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790306447398,
- "writeId": "3k6z3izy-10",
+ "savedAt": 1790306451405,
+ "writeId": "3k6z3izy-11",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790306447398,
+  "savedAt": 1790306451405,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -790,7 +790,7 @@
       "type": "text",
       "x": 25.4,
       "y": 840.2,
-      "text": "al mes",
+      "text": "al mes (",
       "size": 11.4,
       "weight": "400",
       "color": "#9f98ab",
