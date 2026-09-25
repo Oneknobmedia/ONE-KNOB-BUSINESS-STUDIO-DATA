@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790307141434,
- "writeId": "3k6z3izy-42",
+ "savedAt": 1790307156157,
+ "writeId": "3k6z3izy-43",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790307141434,
+  "savedAt": 1790307156157,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -2205,7 +2205,7 @@
       "type": "text",
       "x": 205,
       "y": 738.96,
-      "text": "PLAN TRe",
+      "text": "PLAN TRINESTRAL",
       "size": 11.4,
       "weight": "600",
       "color": "#b79bff",
