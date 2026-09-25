@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790307172215,
- "writeId": "3k6z3izy-45",
+ "savedAt": 1790307194401,
+ "writeId": "3k6z3izy-46",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790307172215,
+  "savedAt": 1790307194401,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -2232,7 +2232,7 @@
       "type": "text",
       "x": 24.41,
       "y": 785.12,
-      "text": "mensual",
+      "text": "PLAN MENSUAKl",
       "size": 11,
       "weight": "600",
       "color": "#6f6878",
