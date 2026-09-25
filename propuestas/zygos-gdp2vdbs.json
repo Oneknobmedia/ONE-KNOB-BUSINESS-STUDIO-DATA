@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790306696349,
- "writeId": "3k6z3izy-22",
+ "savedAt": 1790306706424,
+ "writeId": "3k6z3izy-23",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790306696349,
+  "savedAt": 1790306706424,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -753,7 +753,7 @@
       "id": "L01dpe29",
       "name": "Inversión · etiqueta",
       "type": "text",
-      "x": 16.5,
+      "x": 29.8,
       "y": 777.6,
       "text": "por mes ",
       "size": 11,
