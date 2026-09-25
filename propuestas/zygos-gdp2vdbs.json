@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790306583957,
- "writeId": "3k6z3izy-19",
+ "savedAt": 1790306611547,
+ "writeId": "3k6z3izy-20",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790306583957,
+  "savedAt": 1790306611547,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -1568,7 +1568,7 @@
       "type": "text",
       "x": 24.41,
       "y": 785.12,
-      "text": "TU INVERSIÓN",
+      "text": "T",
       "size": 11,
       "weight": "600",
       "color": "#6f6878",
