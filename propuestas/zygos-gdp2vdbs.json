@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790306823554,
- "writeId": "3k6z3izy-29",
+ "savedAt": 1790306828230,
+ "writeId": "3k6z3izy-30",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790306823554,
+  "savedAt": 1790306828230,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -2259,6 +2259,23 @@
       "lineHeight": 31.2,
       "autoWidth": true,
       "role": "count",
+      "w": 166.59
+     },
+     {
+      "id": "L038pn29",
+      "name": "Nota precio mensual",
+      "type": "text",
+      "x": 24.41,
+      "y": 840.16,
+      "text": "al mes · 3 meses",
+      "size": 11.4,
+      "weight": "400",
+      "color": "#9f98ab",
+      "align": "left",
+      "transform": "",
+      "letterSpacing": 0,
+      "lineHeight": 16.72,
+      "autoWidth": true,
       "w": 166.59
      },
      {
