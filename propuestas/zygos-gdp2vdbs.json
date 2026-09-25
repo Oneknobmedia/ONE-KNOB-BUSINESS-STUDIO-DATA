@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790307677225,
- "writeId": "3k6z3izy-77",
+ "savedAt": 1790307687133,
+ "writeId": "3k6z3izy-78",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790307677225,
+  "savedAt": 1790307687133,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -788,7 +788,7 @@
       "id": "L01dpn31",
       "name": "Nota precio mensual",
       "type": "text",
-      "x": 27,
+      "x": 24.4,
       "y": 839.1,
       "text": "(cancela cuando quieras",
       "size": 11.4,
