@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790307165633,
- "writeId": "3k6z3izy-44",
+ "savedAt": 1790307172215,
+ "writeId": "3k6z3izy-45",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790307165633,
+  "savedAt": 1790307172215,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -2205,7 +2205,7 @@
       "type": "text",
       "x": 205,
       "y": 738.96,
-      "text": "PLAN TRINMSTRAL",
+      "text": "PLAN TRIMSTRAL",
       "size": 11.4,
       "weight": "600",
       "color": "#b79bff",
