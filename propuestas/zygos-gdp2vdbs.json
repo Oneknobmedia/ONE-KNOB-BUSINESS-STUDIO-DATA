@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790306331969,
- "writeId": "3k6z3izy-6",
+ "savedAt": 1790306346217,
+ "writeId": "3k6z3izy-7",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790306331969,
+  "savedAt": 1790306346217,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -256,7 +256,7 @@
     "w": 471.4,
     "h": 49.7,
     "autoWidth": true,
-    "text": "SUBE EL VOLUMEN",
+    "text": "SUBE EL VOLUMEN A TU MEDIDA",
     "font": "MADE TOMMY",
     "size": 46,
     "weight": "700",
