@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790307635576,
- "writeId": "3k6z3izy-74",
+ "savedAt": 1790307650960,
+ "writeId": "3k6z3izy-75",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790307635576,
+  "savedAt": 1790307650960,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -728,7 +728,7 @@
       "type": "text",
       "x": 205,
       "y": 738.96,
-      "text": "P",
+      "text": "PLAN TRIMESTRAL",
       "size": 11.4,
       "weight": "600",
       "color": "#ffc46b",
