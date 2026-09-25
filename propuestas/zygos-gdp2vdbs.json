@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790307875377,
- "writeId": "3k6z3izy-88",
+ "savedAt": 1790307895447,
+ "writeId": "3k6z3izy-89",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790307875377,
+  "savedAt": 1790307895447,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -167,7 +167,7 @@
     "name": "Cliente",
     "type": "text",
     "x": 577.4,
-    "y": 607.6,
+    "y": 617.6,
     "w": 295.3,
     "h": 19.5,
     "autoWidth": false,
