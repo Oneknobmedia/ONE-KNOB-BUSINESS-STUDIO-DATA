@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790307781796,
- "writeId": "3k6z3izy-84",
+ "savedAt": 1790307808545,
+ "writeId": "3k6z3izy-85",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790307781796,
+  "savedAt": 1790307808545,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -168,7 +168,7 @@
     "type": "text",
     "x": 549.9,
     "y": 588.2,
-    "w": 340.3,
+    "w": 295.3,
     "h": 19.5,
     "autoWidth": false,
     "text": "ZYGOS · BIENVENIDO A LA FAMILIA ",
