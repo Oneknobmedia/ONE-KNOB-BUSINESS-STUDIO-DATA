@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790306742000,
- "writeId": "3k6z3izy-25",
+ "savedAt": 1790306754701,
+ "writeId": "3k6z3izy-26",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790306742000,
+  "savedAt": 1790306754701,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -1568,7 +1568,7 @@
       "type": "text",
       "x": 24.41,
       "y": 785.12,
-      "text": "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T",
+      "text": "POR MES",
       "size": 11,
       "weight": "600",
       "color": "#6f6878",
