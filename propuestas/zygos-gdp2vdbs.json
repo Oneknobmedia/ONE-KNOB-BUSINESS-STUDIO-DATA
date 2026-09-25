@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-gdp2vdbs",
- "savedAt": 1790306506802,
- "writeId": "3k6z3izy-15",
+ "savedAt": 1790306528719,
+ "writeId": "3k6z3izy-16",
  "client": "ZYGOS",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "zygos-gdp2vdbs",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790306506802,
+  "savedAt": 1790306528719,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -817,7 +817,7 @@
       "type": "text",
       "x": 205,
       "y": 785.12,
-      "text": "Pago único del trimestre",
+      "text": "Plan trimestral ",
       "size": 11.4,
       "weight": "400",
       "color": "#9f98ab",
