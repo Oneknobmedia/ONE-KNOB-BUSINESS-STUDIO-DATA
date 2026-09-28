@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-lcidbxro",
- "savedAt": 1790605913627,
- "writeId": "utdewuw0-1",
+ "savedAt": 1790605926484,
+ "writeId": "utdewuw0-2",
  "client": "ZYGOS",
  "images": {
   "imgLl46849ikr": "a7b013f41c5701418510c2d7f3c47d2880325b8ec13a0ca1a980c46910029e33.svg"
@@ -13,7 +13,7 @@
   "documentId": "zygos-lcidbxro",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790605913627,
+  "savedAt": 1790605926484,
   "artboard": {
    "width": 1440,
    "height": 2963.5,
@@ -2596,8 +2596,8 @@
     "id": "L04b",
     "name": "+Full Social Media Plan",
     "type": "group",
-    "x": 84,
-    "y": 2066.96,
+    "x": 77.4,
+    "y": 1590.6,
     "children": [
      {
       "id": "L04bbg",
