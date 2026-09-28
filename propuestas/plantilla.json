@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "plantilla",
- "savedAt": 1790569379124,
- "writeId": "claude-1790569379124",
+ "savedAt": 1790604947097,
+ "writeId": "ocultar-link-1790604947097",
  "client": "Preparado para tu negocio",
  "images": {
   "imgLl46849ikr": "a7b013f41c5701418510c2d7f3c47d2880325b8ec13a0ca1a980c46910029e33.svg"
@@ -13,7 +13,7 @@
   "documentId": "plantilla",
   "documentKind": "template",
   "client": "Preparado para tu negocio",
-  "savedAt": 1790569379124,
+  "savedAt": 1790604947097,
   "artboard": {
    "width": 1440,
    "height": 2963.5,
@@ -3038,7 +3038,8 @@
     "weight": "400",
     "color": "#8f8799",
     "lineHeight": 22,
-    "align": "center"
+    "align": "center",
+    "visible": false
    }
   ],
   "layoutVersion": 14
