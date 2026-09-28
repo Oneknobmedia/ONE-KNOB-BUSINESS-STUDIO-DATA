@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "nombre-de-empresa-kajpxfnm",
- "savedAt": 1790563087543,
- "writeId": "c38k38jl-1",
+ "savedAt": 1790563101268,
+ "writeId": "c38k38jl-2",
  "client": "NOMBRE DE EMPRESA",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "nombre-de-empresa-kajpxfnm",
   "documentKind": "project",
   "client": "NOMBRE DE EMPRESA",
-  "savedAt": 1790563087543,
+  "savedAt": 1790563101268,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -171,7 +171,7 @@
     "w": 340.3,
     "h": 19.5,
     "autoWidth": false,
-    "text": "NOMBRE DE EMPRESA · BIENVENIDO A LA FAMILIA ",
+    "text": "CONCIERTO LUIS FONSI · BIENVENIDO A LA FAMILIA ",
     "font": "MADE TOMMY",
     "size": 18,
     "weight": "400",
