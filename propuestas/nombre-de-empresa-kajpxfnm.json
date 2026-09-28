@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "nombre-de-empresa-kajpxfnm",
- "savedAt": 1790563101268,
- "writeId": "c38k38jl-2",
+ "savedAt": 1790563106226,
+ "writeId": "c38k38jl-3",
  "client": "NOMBRE DE EMPRESA",
  "images": {},
  "fonts": {},
@@ -11,7 +11,7 @@
   "documentId": "nombre-de-empresa-kajpxfnm",
   "documentKind": "project",
   "client": "NOMBRE DE EMPRESA",
-  "savedAt": 1790563101268,
+  "savedAt": 1790563106226,
   "artboard": {
    "width": 1440,
    "height": 2652.36,
@@ -168,7 +168,7 @@
     "type": "text",
     "x": 549.9,
     "y": 618.2,
-    "w": 340.3,
+    "w": 473,
     "h": 19.5,
     "autoWidth": false,
     "text": "CONCIERTO LUIS FONSI · BIENVENIDO A LA FAMILIA ",
