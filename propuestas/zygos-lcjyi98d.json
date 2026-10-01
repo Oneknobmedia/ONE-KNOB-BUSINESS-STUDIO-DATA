@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "zygos-lcjyi98d",
- "savedAt": 1790605972592,
- "writeId": "jqi11k4b-1",
+ "savedAt": 1790819550201,
+ "writeId": "hnckcbec-1",
  "client": "ZYGOS",
  "images": {
   "imgLl46849ikr": "a7b013f41c5701418510c2d7f3c47d2880325b8ec13a0ca1a980c46910029e33.svg"
@@ -13,7 +13,7 @@
   "documentId": "zygos-lcjyi98d",
   "documentKind": "project",
   "client": "ZYGOS",
-  "savedAt": 1790605972592,
+  "savedAt": 1790819550201,
   "artboard": {
    "width": 1440,
    "height": 2963.5,
@@ -51,7 +51,8 @@
     "y": 93,
     "w": 1360,
     "h": 1,
-    "fill": "#302a3b"
+    "fill": "#302a3b",
+    "visible": false
    },
    {
     "id": "L003",
