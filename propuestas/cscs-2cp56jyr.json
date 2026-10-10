@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "cscs-2cp56jyr",
- "savedAt": 1791634147562,
- "writeId": "sa2pknnf-1",
+ "savedAt": 1791634159719,
+ "writeId": "sa2pknnf-2",
  "client": "Cscs",
  "images": {
   "imgLl46849ikr": "a7b013f41c5701418510c2d7f3c47d2880325b8ec13a0ca1a980c46910029e33.svg"
@@ -13,7 +13,7 @@
   "documentId": "cscs-2cp56jyr",
   "documentKind": "project",
   "client": "Cscs",
-  "savedAt": 1791634147562,
+  "savedAt": 1791634159719,
   "artboard": {
    "width": 1440,
    "height": 2963.5,
@@ -252,7 +252,7 @@
     "id": "L01d",
     "name": "Power Plan",
     "type": "group",
-    "x": 84,
+    "x": 226,
     "y": 762,
     "children": [
      {
@@ -1700,8 +1700,8 @@
     "id": "L038",
     "name": "Peak Level Plan",
     "type": "group",
-    "x": 960,
-    "y": 762,
+    "x": 1004,
+    "y": 726,
     "children": [
      {
       "id": "L038bg01",
