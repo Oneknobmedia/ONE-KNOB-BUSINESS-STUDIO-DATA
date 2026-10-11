@@ -1,8 +1,8 @@
 {
  "schema": 1,
  "documentId": "plantilla",
- "savedAt": 1791318717392,
- "writeId": "q543grzi-1",
+ "savedAt": 1791685660960,
+ "writeId": "yi10imqk-1",
  "client": "Preparado para tu negocio",
  "images": {
   "imgLl46849ikr": "a7b013f41c5701418510c2d7f3c47d2880325b8ec13a0ca1a980c46910029e33.svg"
@@ -13,7 +13,7 @@
   "documentId": "plantilla",
   "documentKind": "template",
   "client": "Preparado para tu negocio",
-  "savedAt": 1791318717392,
+  "savedAt": 1791685660960,
   "artboard": {
    "width": 1440,
    "height": 2963.5,
